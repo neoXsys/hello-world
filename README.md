@@ -1,4 +1,4 @@
-hello-world_Docker is Dockerfile to build hello-world container based on Ubuntu 16.04.
+hello-world is DOckercontainer based on Ubuntu 16.04. By default it will execute hello-world.sh bash shell script.
 
 By default runnig this container will printout "Hello World!!!" Output. 
 
