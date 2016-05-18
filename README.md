@@ -4,4 +4,4 @@ By default runnig this container will printout "Hello World!!!" Output.
 
 You can also supply any bash command for fun as shown below.
 
-    doccker run neoxsys/hello-world -c 'cat /etc/resolv.conf'
+    docker run neoxsys/hello-world -c 'cat /etc/resolv.conf'
